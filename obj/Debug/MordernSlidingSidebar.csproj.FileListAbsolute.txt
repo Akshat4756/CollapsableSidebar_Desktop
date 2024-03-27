@@ -1,0 +1,10 @@
+A:\C#Projects\SidebarConsole\MordernSlidingSidebar\bin\Debug\MordernSlidingSidebar.exe.config
+A:\C#Projects\SidebarConsole\MordernSlidingSidebar\bin\Debug\MordernSlidingSidebar.exe
+A:\C#Projects\SidebarConsole\MordernSlidingSidebar\bin\Debug\MordernSlidingSidebar.pdb
+A:\C#Projects\SidebarConsole\MordernSlidingSidebar\obj\Debug\MordernSlidingSidebar.csproj.AssemblyReference.cache
+A:\C#Projects\SidebarConsole\MordernSlidingSidebar\obj\Debug\MordernSlidingSidebar.Form1.resources
+A:\C#Projects\SidebarConsole\MordernSlidingSidebar\obj\Debug\MordernSlidingSidebar.Properties.Resources.resources
+A:\C#Projects\SidebarConsole\MordernSlidingSidebar\obj\Debug\MordernSlidingSidebar.csproj.GenerateResource.cache
+A:\C#Projects\SidebarConsole\MordernSlidingSidebar\obj\Debug\MordernSlidingSidebar.csproj.CoreCompileInputs.cache
+A:\C#Projects\SidebarConsole\MordernSlidingSidebar\obj\Debug\MordernSlidingSidebar.exe
+A:\C#Projects\SidebarConsole\MordernSlidingSidebar\obj\Debug\MordernSlidingSidebar.pdb
